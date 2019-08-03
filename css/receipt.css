@@ -1,0 +1,62 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+table {
+    width: 100%;
+}
+
+header {
+    height: 60px;
+}
+
+footer {
+    display: none;
+}
+
+th {
+    text-align: left;
+}
+
+nav {
+    display: none;
+}
+
+.right-float {
+    margin-left: 70%;
+    width: 20vw;
+}
+
+#logo {
+    float: left;
+    position: absolute;
+    background-image: url('./media/logo.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 40px 40px;
+    height: 50px;
+    width: 50px;
+    padding: 4px;
+    margin: 4px;
+}
+
+#logo::after {
+    content: 'Procaffeination';
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    top: 12px;
+    left: 50px;
+    font-style: normal;
+    font-size: 2em;
+    text-align: center;
+    letter-spacing: 0.5px;
+    color: #191501;
+    z-index: 200;
+}

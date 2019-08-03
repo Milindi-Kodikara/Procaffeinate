@@ -1,0 +1,10 @@
+ID	OID	Title	Description	Option	Price	Picture
+1	sml	Freshy Breeze	Crushed peppermint candies give this coffee beverage a festive twist for the holidays. Top with whipped cream for an extra flair!	Small	6	product0
+1	med	Freshy Breeze	Crushed peppermint candies give this coffee beverage a festive twist for the holidays. Top with whipped cream for an extra flair!	Medium	7	product0
+1	lrg	Freshy Breeze	Crushed peppermint candies give this coffee beverage a festive twist for the holidays. Top with whipped cream for an extra flair!	Large	8	product0
+2	sml	Red Velvet Latte	This stunning looking Red Velvet Latte blend tastes as good as it looks. Full of sweet, earthy flavours with a touch of spice.	Small	7	product1
+2	med	Red Velvet Latte	This stunning looking Red Velvet Latte blend tastes as good as it looks. Full of sweet, earthy flavours with a touch of spice.	Medium	8	product1
+2	lrg	Red Velvet Latte	This stunning looking Red Velvet Latte blend tastes as good as it looks. Full of sweet, earthy flavours with a touch of spice.	Large	9	product1
+3	sml	Rose Latte	This beautifully fragrant rose latte will relax your stress away. Plus, it's dairy-free, refined sugar free and pink - perfect for Valentine's Day!	Small	5	product2
+3	med	Rose Latte	This beautifully fragrant rose latte will relax your stress away. Plus, it's dairy-free, refined sugar free and pink - perfect for Valentine's Day!	Medium	6	product2
+3	lrg	Rose Latte	This beautifully fragrant rose latte will relax your stress away. Plus, it's dairy-free, refined sugar free and pink - perfect for Valentine's Day!	Large	7	product2
